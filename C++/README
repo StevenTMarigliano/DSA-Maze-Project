@@ -1,0 +1,4 @@
+This folder contains C++ code I written to solve a Maze project assigned to me in my Data Structures and Algorithms course.
+The assignment tasked me to use data structures and algorithms to solve a maze made up of 1's and 0's (0's being possible 
+pathways and 1's being walls). I was given 5 mazes that I had to solve. Each with increased difficulty. The mazes were 
+provided in text files which had to be read in and the program was ran through command prompt.
